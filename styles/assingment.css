@@ -18,6 +18,21 @@
   text-align: center;
   margin-top: 309px;
 }
+.banner-content-bg{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+
+}
+.banner-content-description{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal ;
+  font-style: normal;
+  font-size: 24px;
+
+}
 .banner{
     background-image: url(Assets/Hero-bg.png);
     background-size:cover;
@@ -52,3 +67,19 @@ nav{
 nav ul li{
     list-style: none;
 }
+.sec-section{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 113px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.img{
+  border-radius: 48px;
+  border-radius: 10px;
+  margin-right: 150px ;
+  margin-top: 43px;
+}
+
+
